@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 8x 24V 8A NO Relay Module")
-		(date "2026-06-13")
+		(date "2026-06-17")
 		(rev "V1.2")
 	)
 	(layers
@@ -20798,6 +20798,17 @@
 		(layer "F.SilkS")
 		(uuid "edeafa6d-fc8d-4b8a-8347-fa7bf6d25e6e")
 	)
+	(gr_rect
+		(start 128.5 77.5)
+		(end 136 79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "157ef437-1b4d-42c0-a360-9162b9a188af")
+	)
 	(gr_line
 		(start 131.58 124.5)
 		(end 131.58 126.75)
@@ -20927,17 +20938,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "dc066b07-21be-434d-ad5b-81cdb48daaef")
-	)
-	(gr_rect
-		(start 151.5 74.75)
-		(end 157 77.5)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "157ef437-1b4d-42c0-a360-9162b9a188af")
 	)
 	(gr_line
 		(start 155.48 124.5)
@@ -21333,8 +21333,8 @@
 		(layer "Edge.Cuts")
 		(uuid "3884f2c0-c53c-49fd-9b0f-efa7f02cf23e")
 	)
-	(gr_text "V1.2\n2026-06-13"
-		(at 154.25 76 0)
+	(gr_text "V1.2 2026-06-17"
+		(at 132.25 78.25 0)
 		(layer "F.SilkS")
 		(uuid "79d15256-b284-4363-8bf4-c3a53e8d87e6")
 		(effects
