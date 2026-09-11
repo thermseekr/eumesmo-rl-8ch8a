@@ -1752,7 +1752,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (24V - V_{F}) / R\nI_{LED} = (24V - 1.8V) / 9.1k\nI_{LED} = 2.44 mA"
+	(text "V_{F} = 1,8V @ 2,5mA\nI_{LED} = (24V - V_{F}) / R\nI_{LED} = (24V - 1.8V) / 10k\nI_{LED} = 2.22 mA"
 		(exclude_from_sim no)
 		(at 66.04 179.07 0)
 		(effects
@@ -5393,7 +5393,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 170.18 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5459,7 +5459,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 172.72 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5481,7 +5481,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 172.72 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5492,7 +5492,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 170.18 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6177,7 +6177,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 170.18 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6243,7 +6243,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 172.72 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6265,7 +6265,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 172.72 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6276,7 +6276,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 170.18 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6779,7 +6779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 73.66 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6845,7 +6845,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 76.2 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6867,7 +6867,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 76.2 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6878,7 +6878,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 73.66 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7435,7 +7435,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 73.66 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7501,7 +7501,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 76.2 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7523,7 +7523,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 76.2 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7534,7 +7534,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 73.66 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7784,7 +7784,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 73.66 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7850,7 +7850,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7872,7 +7872,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7883,7 +7883,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 73.66 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9538,7 +9538,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 170.18 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9604,7 +9604,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 172.72 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -9626,7 +9626,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 172.72 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -9637,7 +9637,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 170.18 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10112,7 +10112,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 73.66 146.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10178,7 +10178,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 76.2 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10200,7 +10200,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 76.2 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -10211,7 +10211,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 73.66 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10457,7 +10457,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 170.18 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10523,7 +10523,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 172.72 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -10545,7 +10545,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 172.72 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -10556,7 +10556,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 170.18 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)

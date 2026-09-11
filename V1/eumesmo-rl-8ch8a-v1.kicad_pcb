@@ -1301,7 +1301,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "5dd9cfee-ca7f-4a71-b65d-1aeb25b873de")
@@ -1360,7 +1360,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1386,7 +1386,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1399,7 +1399,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1609,7 +1609,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "4ce6bc31-d349-4e3d-81f0-17c63f5a688d")
@@ -1668,7 +1668,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1694,7 +1694,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1707,7 +1707,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3031,7 +3031,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "d5e24e6c-d724-4203-9949-e2682c9457ed")
@@ -3090,7 +3090,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3116,7 +3116,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3129,7 +3129,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5001,7 +5001,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "849c263f-68b6-44dd-8e6a-99dfc46031da")
@@ -5060,7 +5060,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5086,7 +5086,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5099,7 +5099,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5309,7 +5309,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "113fa1b5-17bb-4028-b5d4-45a67a23ccbd")
@@ -5368,7 +5368,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5394,7 +5394,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5407,7 +5407,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6448,7 +6448,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "b656ddfc-abf9-4f5e-a55e-b889927bc614")
@@ -6507,7 +6507,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6533,7 +6533,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6546,7 +6546,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "fd320584-babf-4654-99a6-68f53a80a586")
@@ -11049,7 +11049,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11075,7 +11075,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11088,7 +11088,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19028,7 +19028,7 @@
 				)
 			)
 		)
-		(property "Value" "9.1k/125mW"
+		(property "Value" "10k/125mW"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "52fef0f2-b2e9-4f07-8ff0-ff21ca176a3b")
@@ -19087,7 +19087,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "0805W8F9101T5E"
+		(property "Mfr PN" "0805W8F1002T5E"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19113,7 +19113,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C17855"
+		(property "Vendor PN" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19126,7 +19126,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17855"
+		(property "LCSC Part #" "C17414"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
