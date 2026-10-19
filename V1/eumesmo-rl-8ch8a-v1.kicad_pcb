@@ -7903,7 +7903,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2765063"
+		(property "LCSC Part #" "C475156"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7916,7 +7916,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Wago"
+		(property "Mfr" "Cixi Kefa Elec"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7929,7 +7929,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "250-204"
+		(property "Mfr PN" "KF250-3.5-4P-1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7942,7 +7942,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2765063"
+		(property "Vendor PN" "C475156"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12310,7 +12310,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2765061"
+		(property "LCSC Part #" "C475154"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12323,7 +12323,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Wago"
+		(property "Mfr" "Cixi Kefa Elec"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12336,7 +12336,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "250-202"
+		(property "Mfr PN" "KF250-3.5-2P-1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12349,7 +12349,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2765061"
+		(property "Vendor PN" "C475154"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21295,7 +21295,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C2765063"
+		(property "LCSC Part #" "C475156"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21308,7 +21308,7 @@
 				)
 			)
 		)
-		(property "Mfr" "Wago"
+		(property "Mfr" "Cixi Kefa Elec"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21321,7 +21321,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "250-204"
+		(property "Mfr PN" "KF250-3.5-4P-1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21334,7 +21334,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C2765063"
+		(property "Vendor PN" "C475156"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
